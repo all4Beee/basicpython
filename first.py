@@ -1,0 +1,11 @@
+print("Hello Python")
+print(2+3)
+print(2**3)
+print("สวัสดี", end="+")
+print("ชาวไพทอน")
+
+print("Python "*3)
+print(sum(range(1, 100)))
+print("\t\tTgenius")
+print("This is "+"Saturday")
+print("Coffee", "Tea", "Milk")
